@@ -1,4 +1,4 @@
-<h2>👋 Hi everbody, I'm Ahmet, TechNicAhmett.</h2>
+<h2>👋 Hi everbody, I'm Ahmet, TECHnicAhmett.</h2>
 
 <h4>I'm a Technic Man. </h4>
 
