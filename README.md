@@ -4,7 +4,7 @@
 
 My some interests;
 - 👀 I’m interested in Arduino, RaspberryPi, IoT devices,
-- 🌱 I’m currently learning codding for Arduino, Python (MicroPython)
+- 🌱 I’m currently learning codding Arduino and Python (MicroPython)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
