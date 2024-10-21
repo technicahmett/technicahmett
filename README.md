@@ -3,8 +3,10 @@
 <h4>I'm a Technic Man. </h4>
 
 My some interests;
-- 👀 I’m interested in Arduino, RaspberryPi, IoT devices,
-- 🌱 I’m currently learning codding Arduino and Python (MicroPython)
+- 👀 I’m interested in Arduino, RaspberryPi, IoT devices and codding them.
+- 🌱 I’ve been learning JAVA codding.
+-    I want to improve my codding skillls.
+-    I've joined Cydeo Course for Java Codding and SDET.
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
